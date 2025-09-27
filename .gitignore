@@ -1,0 +1,8 @@
+think/
+
+
+__pycache__/
+*.pyc
+
+
+.vscode/
