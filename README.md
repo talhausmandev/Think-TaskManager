@@ -1,8 +1,9 @@
 # 🧠 Think – Task Manager
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white) 
-![PySide6](https://img.shields.io/badge/PySide6-5A9?logo=qt&logoColor=white) 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white&style=for-the-badge)
+![PySide6](https://img.shields.io/badge/PySide6-5A9?logo=qt&logoColor=white&style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
 
 A simple and elegant **task manager** built with **Python**. I have created it as hobby project. We can save our tasks and it handles our all tasks by giving remainder after some time.
 
