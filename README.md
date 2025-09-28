@@ -5,7 +5,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 
-A simple and elegant **task manager** built with **Python**. I have created it as hobby project. We can save our tasks and it handles our all tasks by giving remainder after some time.
+A simple and elegant **task manager** built with **Python**. I have created it as hobby project. We can save our tasks and it handles our all tasks by giving remainder.
 
 
 ## ✨ Features  
