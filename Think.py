@@ -34,7 +34,7 @@ def manager():
 task_manager = threading.Thread(target=manager, daemon=True)
 task_manager.start()
 
-def menu(pos):
+def context_menu(pos):
     item = tasks_list.itemAt(pos)
     menu = QMenu()
     if item:
@@ -127,7 +127,7 @@ tasks_label = QLabel("All Tasks")
 tasks_list = QListWidget()
 tasks_list.addItems(tasks_for_task_list)
 tasks_list.setContextMenuPolicy(qtcore.Qt.CustomContextMenu)
-tasks_list.customContextMenuRequested.connect(menu)
+tasks_list.customContextMenuRequested.connect(context_menu)
 
 left_Layout.addWidget(task_title_input)
 left_Layout.addWidget(task_message_input)
