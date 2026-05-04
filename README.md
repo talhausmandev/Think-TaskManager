@@ -10,7 +10,7 @@ A simple and elegant **task manager** built with **Python**. I have created it a
 
 ## ✨ Features  
 - ✅ Add, edit, and delete tasks  
-- ⚡ Lightweight, no heavy dependencies 
+- ⚡ Simple & easy to use
 - ⏰ Tasks Reminder
 
 ---
